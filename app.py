@@ -24,7 +24,7 @@ QUIZ = [
     ("What is [NAME]'s biggest fear?", ["Spiders", "Heights", "Clowns", "Flying"], 0),
     ("What was [NAME]'s first job?", ["Tutor", "Barista", "Lifeguard", "Cashier"], 0),
     ("How does [NAME] take their coffee?", ["Black", "With oat milk", "Iced only", "No coffee at all"], 0),
-    ("What is [NAME] doing in this photo?", ["Option A", "Option B", "Option C", "Option D"], 0, "example.jpg"),
+    ("What is [NAME] doing in this photo?", ["Posing", "Jumping", "Sleeping", "Dancing"], 0),
 ]
 
 
